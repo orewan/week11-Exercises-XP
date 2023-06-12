@@ -1,0 +1,11 @@
+{
+  "name": "exercise2",
+  "version": "1.0.0",
+  "description": "Exercise 2 for DI bootCamp",
+  "main": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Benjamin Kaufmann",
+  "license": "ISC"
+}
